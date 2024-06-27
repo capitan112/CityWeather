@@ -14,6 +14,11 @@ CityWeather is an iOS application designed to provide users with up-to-date weat
 
 - iOS 17.0+
 - Swift 5.5+
+  
+## Technologies Used
+- Swift
+- SwiftUI
+- Combine
 
 ## Installation
 
